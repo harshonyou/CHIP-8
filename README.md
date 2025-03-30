@@ -1,6 +1,6 @@
 # Chip-8 Emulator in Python
 
-This repository provides a simple implementation of the [Chip-8](#what-is-chip-8) virtual machine in Python using Pygame for graphics and audio. You can use this emulator to play classic Chip-8 games or run test ROMs.
+This repository provides a simple implementation of the [Chip-8](#what-is-chip-8) virtual machine in Python using Pygame for graphics and audio. You can use this emulator to play classic Chip-8 games or run test ROMs. Demo can be found on [YouTube](https://www.youtube.com/watch?v=C0t2sXF5C34).
 
 ## Table of Contents
 
